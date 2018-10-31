@@ -1,9 +1,6 @@
 {
 	"env": "local",
 	"url": "http://localhost:5500/v1/",
-	"intercom_id": "czd3ts0k",
 	"socket_url": "http://localhost:5500",
 	"dashboard_url": "http://localhost:3002/#/redirect/token",
-	"chat_url": "http://localhost:3004/#/token:",
-	"whitelist_url": ["localhost", "api1.amber.infeedo.com", "api.crash.amber.infeedo.com", "api.amber.fidento.com"]
-}
+	}
