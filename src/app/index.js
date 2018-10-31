@@ -8,6 +8,7 @@ import routes from './routes';
 import controllers from './controllers';
 import directives from './directives';
 import services from './services';
+import constant from './index.constants';
 
 export default angular
     .module( 'app', [
@@ -18,4 +19,5 @@ export default angular
         directives,
         services
     ] )
-    .config( routes );
+    .config( routes )
+    .constant(constant);

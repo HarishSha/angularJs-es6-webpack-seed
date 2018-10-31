@@ -1,0 +1,14 @@
+{
+	"env": "live",
+	"url": "https://api1.amber.infeedo.com/v1/",
+	"intercom_id": "yw9et15e",
+	"socket_url": "https://api1.amber.infeedo.com",
+	"dashboard_url": "https://app.amber.infeedo.com/#/redirect/token",
+	"chat_url": "https://chat.amber.infeedo.com/#/token:",
+	"drift_id": "xd2a4te9psfd",
+	"razor_pay_key": "rzp_live_wIPJm6TNUAzk9D",
+	"freshchat_token": "0c130d71-af3f-452a-8d1f-a2fada869c3c",
+	"sample_database": "http://app.amber.infeedo.com/assets/resources/Sample_DB_Upload.csv",
+	"whitelist_url": ["api1.amber.infeedo.com","amber.infeedo.com"]
+
+}

@@ -9,19 +9,17 @@ A **seed** AngularJS project using:
 + Webpack 1.12.1
 + ES6 via Babel
 
-This project demonstrates how AngularJS can be used with Webpack and ES6 via the provided webpack configuration files.
 
-# Development Environment Provisioning
 
-Please read the [provisioning](./provision/README.md) section for setting up the development environment.
+# Development Environment 
+ + crash 
+ + dev
+ + dev2
+ + stage
+ + prod
 
-# Linting
+Run project with tag --env=stage
 
-An [.eslintrc](./eslintrc) is provided for [ESLint](http://eslint.org/) but the eslint packages are not listed in [package.json](./package.json) as
-  the eslint modules are required for the client machine (and not the development server).
+## gulp --env=stage
 
-To install ESLint:
 
-```
-npm install -g eslint
-```

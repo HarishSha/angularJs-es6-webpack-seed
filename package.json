@@ -16,11 +16,11 @@
         "angular-aria": "1.4.5",
         "angular-strap": "2.3.1",
         "angular-ui-router": "0.2.15",
+        "bluebird": "2.9.34",
         "bootstrap": "3.3.5",
         "font-awesome": "4.4.0",
         "jquery": "2.1.4",
-        "lodash": "3.10.1",
-        "bluebird": "2.9.34"
+        "lodash": "3.10.1"
     },
     "devDependencies": {
         "babel-loader": "5.3.2",
@@ -30,9 +30,10 @@
         "gulp": "3.9.0",
         "gulp-clean": "0.3.1",
         "gulp-imagemin": "2.3.0",
+        "gulp-inject": "^4.3.2",
+        "gulp-load-plugins": "^1.5.0",
         "gulp-stylus": "2.0.6",
         "gulp-util": "3.0.6",
-        "gulp-webpack": "1.5.0",
         "gulp-webpack": "1.5.0",
         "html-loader": "0.3.0",
         "html-webpack-plugin": "1.6.1",
